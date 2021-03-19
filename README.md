@@ -1,2 +1,2 @@
-# cananb-googlemaps_testing
+# googlemaps_testing
 Google Maps testing with Selenium
